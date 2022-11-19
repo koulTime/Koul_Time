@@ -337,5 +337,6 @@
         <bounds x="840" y="144" width="120" height="49"/>
       </child>
     </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Principle View" id="id-a8276ab0c4dd4a97a4599134f8aab670"/>
   </folder>
 </archimate:model>
