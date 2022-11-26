@@ -74,6 +74,7 @@
     <element xsi:type="archimate:DataObject" name="payment" id="id-ca497857574e44c78ad99b7679eca0ee"/>
     <element xsi:type="archimate:DataObject" name="cuisine" id="id-a3870187484947e79d087bad854a4104"/>
     <element xsi:type="archimate:DataObject" name="Plats" id="id-feb817cc6c334f6596a58e875f6fb8c6"/>
+<<<<<<< HEAD
     <element xsi:type="archimate:ApplicationService" name="Application" id="id-adb3c6b2814e4945899510955d7da126"/>
     <element xsi:type="archimate:ApplicationComponent" name="Système CRM" id="id-de2e31d6795d4ddcb03d12cecf8fb589"/>
     <element xsi:type="archimate:ApplicationService" name="Gestion de l'Inventaire" id="id-0b9efd41baa2414cbae0563810b5539d"/>
@@ -97,6 +98,8 @@
     <element xsi:type="archimate:ApplicationService" name="Gestion de Factures" id="id-36b1ee8de2624279be07709ada942096"/>
     <element xsi:type="archimate:ApplicationService" name="Application" id="id-36eace52930b4a838f6cead7f1380264"/>
     <element xsi:type="archimate:ApplicationComponent" name="site Web" id="id-8aabf23d45ba4ad888787054f3332e15"/>
+=======
+>>>>>>> parent of 7083177 (f)
   </folder>
   <folder name="Technology &amp; Physical" id="id-27b7362d36a24318b2e6fc514f8b9df1" type="technology"/>
   <folder name="Motivation" id="id-256bf952636544419fb0acbe0a6ffa6a" type="motivation">
@@ -248,6 +251,7 @@
     <element xsi:type="archimate:CompositionRelationship" id="id-9b1f6043044d4a99bfcddd31cd834e04" source="id-feb817cc6c334f6596a58e875f6fb8c6" target="id-420c54ed6ce046189038f0f9b646e383"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-72f8adc259da4fcea8033ba0e7a3d926" source="id-420c54ed6ce046189038f0f9b646e383" target="id-feb817cc6c334f6596a58e875f6fb8c6"/>
     <element xsi:type="archimate:AssociationRelationship" id="id-3b1664698e4e4b219f0104819b68f2a0" source="id-420c54ed6ce046189038f0f9b646e383" target="id-125ed20721fd4882b00c5c9da1521a5f"/>
+<<<<<<< HEAD
 
     <element xsi:type="archimate:RealizationRelationship" id="id-dc3ca5df1eb0458098d9ce1717f6d6b0" source="id-cd0082ad1b434e87898211fd8603a7cd" target="id-cf49bfcf8e0649b8b2a4cd0eb72591e2"/>
     <element xsi:type="archimate:RealizationRelationship" id="id-f03d89ce22ea4a01afd9d157ed95d3d7" source="id-da1c8174540c488e96a9b3bb52f23c26" target="id-47401d0fa88347f1a118cde2a1915b54"/>
@@ -304,6 +308,8 @@
     <element xsi:type="archimate:FlowRelationship" id="id-51daff686f1b430f8aaf503ea8800d6d" source="id-278ba0a3192349e8adce60d66e102ac9" target="id-0e4f5f488cb74993a83a437c7ad02f2a"/>
     <element xsi:type="archimate:FlowRelationship" id="id-27d765ae604c4ea38b03cc5570bd3aad" source="id-73f08468601c43fc8189661973ac8a76" target="id-e824a7822bef467d9a1f9bb460424fed"/>
     <element xsi:type="archimate:FlowRelationship" id="id-44c7dbebcfe64e768a05a0565c0a42be" source="id-5f29ebc2660d4775a3d20fbe5a00ffd1" target="id-e824a7822bef467d9a1f9bb460424fed"/>
+=======
+>>>>>>> parent of 7083177 (f)
   </folder>
   <folder name="Views" id="id-82739fd714794b01b7c9ecba91a70ebf" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Organization Structure" id="id-e75c2bf49df7409a9d726478878ae8a0">
@@ -733,6 +739,7 @@
         <sourceConnection xsi:type="archimate:Connection" id="id-8cdf257a69084bcfa33c2924b9fab080" source="id-c1726d48e7df49039480c67c0f60e333" target="id-8515612c1ec840d9a1b5573c0cef4b34" archimateRelationship="id-3c865acba79640b2a31306beaa8f5e36"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-da494e22c1b64d069555e5dfa5f04ca6" source="id-c1726d48e7df49039480c67c0f60e333" target="id-e44fc9734e44415d9b818ce473c8f082" archimateRelationship="id-72f8adc259da4fcea8033ba0e7a3d926"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e42653ac85554ffda95c4222e842cd22" source="id-c1726d48e7df49039480c67c0f60e333" target="id-d8346c9b902e4a05a80d076746afbcf2" archimateRelationship="id-3b1664698e4e4b219f0104819b68f2a0"/>
+<<<<<<< HEAD
       <child xsi:type="archimate:DiagramObject" id="id-379c995cc14e41768b46cd1b300bcf76" targetConnections="id-9d751811bd8741ae830f03fa23b6ec51" archimateElement="id-fb5526809847470d80fac9fc18fc2ce4">
         <bounds x="596" y="349" width="133" height="73"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-09c4a9e9f9ab433fa3437bdb8c975d7b" source="id-379c995cc14e41768b46cd1b300bcf76" target="id-2c4b7c54a94e4427a8cb9e7e8f09718e" archimateRelationship="id-2dc9d57dd4e04c159d48a8f72137bb1e"/>
@@ -742,6 +749,8 @@
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-db21ca3d2a104817a76ae0130dba659c" targetConnections="id-ca441ec7d0e64179a7785e90b627b79f id-34eee9fc34b14b649f34000bc023f88a id-23be67cabd0e446999ce246cdc4ff0e2 id-2edcc23b99734588a4327c29ca3eddd3" archimateElement="id-25a3513b124b4c22b96989c1e09da081">
         <bounds x="590" y="517" width="145" height="79"/>
+=======
+>>>>>>> parent of 7083177 (f)
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8515612c1ec840d9a1b5573c0cef4b34" targetConnections="id-8cdf257a69084bcfa33c2924b9fab080" archimateElement="id-b5d47399ee654829a43d8fd21cfe663b">
         <bounds x="660" y="337" width="148" height="76"/>
@@ -814,6 +823,7 @@
             <bendpoint startX="-72" startY="114" endX="-618" endY="673"/>
             <bendpoint startX="576" startY="114" endX="30" endY="673"/>
           </sourceConnection>
+<<<<<<< HEAD
       <child xsi:type="archimate:DiagramObject" id="id-2c4b7c54a94e4427a8cb9e7e8f09718e" targetConnections="id-09c4a9e9f9ab433fa3437bdb8c975d7b" archimateElement="id-420c54ed6ce046189038f0f9b646e383">
         <bounds x="788" y="517" width="145" height="79"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-ca441ec7d0e64179a7785e90b627b79f" source="id-2c4b7c54a94e4427a8cb9e7e8f09718e" target="id-db21ca3d2a104817a76ae0130dba659c" archimateRelationship="id-7f8528e1fe744482a42757d6d4e14d63"/>
@@ -1011,6 +1021,17 @@
       <child xsi:type="archimate:DiagramObject" id="id-10d2b2b1af39429db4f8a3f7d29f3c01" targetConnections="id-aca87d927c004f7bb486a5ac3cddc925 id-abe571000fb1412a8ab40baef79c6a57" archimateElement="id-ca497857574e44c78ad99b7679eca0ee">
         <bounds x="672" y="246" width="148" height="76"/>
       </child>
+=======
+        </child>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-c6cbafe8aaed409e9ddb7b30a234c403" targetConnections="id-697d523161904fe0bd8d955de03db465" textAlignment="1" archimateElement="id-259d3c9b273b4bc8934323ceb24949a7">
+        <bounds x="456" y="363" width="133" height="94"/>
+        <sourceConnection xsi:type="archimate:Connection" id="id-372d5745ad84495288aa0d93b5bb9d4b" source="id-c6cbafe8aaed409e9ddb7b30a234c403" target="id-049c0ad3a4844c6f901ed85334d9df6c" archimateRelationship="id-a93ca243d984457a8be8f30ec6b69f53"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-10d2b2b1af39429db4f8a3f7d29f3c01" targetConnections="id-aca87d927c004f7bb486a5ac3cddc925 id-abe571000fb1412a8ab40baef79c6a57" archimateElement="id-ca497857574e44c78ad99b7679eca0ee">
+        <bounds x="672" y="246" width="148" height="76"/>
+      </child>
+>>>>>>> parent of 7083177 (f)
       <child xsi:type="archimate:DiagramObject" id="id-3cd0b47a18e340b1b356f35d62d3b5eb" targetConnections="id-ca16c290345e417c8782895f53c859ea id-26bfb9fa5ec44f37aaec9c3ca3120882" textAlignment="1" archimateElement="id-56231da7ced048658871edfc42bcb452">
         <bounds x="684" y="363" width="169" height="94"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-abe571000fb1412a8ab40baef79c6a57" source="id-3cd0b47a18e340b1b356f35d62d3b5eb" target="id-10d2b2b1af39429db4f8a3f7d29f3c01" archimateRelationship="id-1906f4f12078450a9341054ce6bac06e"/>
