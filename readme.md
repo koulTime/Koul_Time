@@ -11,3 +11,6 @@ The Case Study concerns <strong>Koul Time</strong>, a restaurant chain that spec
 - Organization Structure
 - Business Function View
 - Business Process View
+## III- Phase C: Baseline Information Systems Architectures (Applications)
+- Application Usage View
+- Information Structure View
