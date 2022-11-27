@@ -14,3 +14,4 @@ The Case Study concerns <strong>Koul Time</strong>, a restaurant chain that spec
 ## III- Phase C: Baseline Information Systems Architectures (Applications)
 - Application Usage View
 - Information Structure View
+- Data Dissemination Diagram
